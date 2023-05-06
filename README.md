@@ -5,10 +5,10 @@ This project is a Property Rental Management System which has been developed usi
 
 ## Prerequisites:
 
-Python 3.x
-MySQL Server
-Python's MySQL Connector
-Tkinter module
+1.Python 3.x
+2.MySQL Server
+3.Python's MySQL Connector
+4.Tkinter module
 
 ## Installation:
 
@@ -36,15 +36,15 @@ database.sql – This file contains the SQL script to create the database and ta
 
 The application will contains the following options:
 
-Add Client
-Add Owner
-Add Staff
-View Staff
-Add Property
-View Property
-Give Feedback
-View Feedback
-Final Lease Form
+1.Add Client
+2.Add Owner
+3.Add Staff
+4.View Staff
+5.Add Property
+6.View Property
+7.Give Feedback
+8.View Feedback
+9.Final Lease Form
 
 Select the appropriate option to perform the required action.
 
